@@ -6,7 +6,7 @@ from psycopg2 import Error
 from datetime import datetime
 
 
-TOKEN = '7643476199:AAF4XuhcewqYHXYc7plyJrf6DtQ_GUAuAPc'
+TOKEN = ''
 
 bot = telebot.TeleBot(TOKEN)
 
