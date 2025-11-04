@@ -5,6 +5,7 @@ from telebot import types
 from psycopg2 import Error
 from datetime import datetime
 
+bool_state = False
 
 TOKEN = ''
 
